@@ -1,4 +1,4 @@
-import Swiper from 'swiper';
+import Swiper from 'deshe-swiper';
 import { isObject, extend } from './utils.js';
 import { paramsList } from './params-list.js';
 

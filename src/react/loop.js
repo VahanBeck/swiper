@@ -1,5 +1,5 @@
 import React from 'react';
-import Swiper from 'swiper';
+import Swiper from 'deshe-swiper';
 
 function calcLoopedSlides(slides, swiperParams) {
   let slidesPerViewParams = swiperParams.slidesPerView;
