@@ -1,6 +1,6 @@
 {
-  "name": "swiper",
-  "version": "8.1.6",
+  "name": "deshe-swiper",
+  "version": "8.1.10",
   "description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
   "typings": "swiper.d.ts",
   "type": "module",
@@ -89,6 +89,7 @@
     "./scss/zoom": "./modules/zoom/zoom.scss",
     "./angular": "./angular/fesm2015/swiper_angular.mjs",
     "./react": "./react/swiper-react.js",
+    "./react/swiper-react.js": "./react/swiper-react.js",
     "./vue": "./vue/swiper-vue.js",
     "./svelte": "./svelte/swiper-svelte.js",
     "./types": "./types/index.d.ts",
@@ -115,7 +116,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nolimits4web/Swiper.git"
+    "url": "https://github.com/VahanBeck/Swiper.git"
   },
   "keywords": [
     "swiper",
